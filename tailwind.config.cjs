@@ -6,7 +6,8 @@ module.exports = {
         'light-gray': 'rgb(248, 246, 252)',
         'dark-gray': 'rgb(221, 221, 224)',
         'thin-gray': 'rgb(229, 231, 235)',
-        
+        'header-gray': 'rgb(70, 70, 73)',
+        'light-header': 'rgb(50, 50, 50)'
       }
     },
   },
